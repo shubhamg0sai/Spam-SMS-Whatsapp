@@ -38,8 +38,10 @@ https://t.me/ShuBham_g0sain
  cd Spam-SMS-Whatsapp
 
  python3 ShuBham.py
+
        Or 
+
  python ShuBham.py
 
-### note
+### :NOTE:
 Used Tokopedia Option 
