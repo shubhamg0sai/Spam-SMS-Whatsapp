@@ -31,6 +31,14 @@ https://t.me/ShuBham_g0sain
 
 ### Installation
 
+ pkg update
+ 
+ pkg upgrade
+
+ pkg install python
+
+ pkg install python2
+
  git clone https://github.com/ShuBhamg0sain/Spam-SMS-Whatsapp
  
  ls
