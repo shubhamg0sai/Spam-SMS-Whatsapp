@@ -292,4 +292,4 @@ def jnspam():
 		elif( oy == '0' or oy == '00' ):
 			sys.exit()
 		else:
-			print(m+'       
+			print(m+'       shubhamgosain')
